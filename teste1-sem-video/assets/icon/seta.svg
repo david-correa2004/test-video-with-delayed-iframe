@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35">
+  <g id="seta" transform="translate(0 0.122)">
+    <rect id="Retângulo_104" data-name="Retângulo 104" width="35" height="35" rx="3" transform="translate(0 34.878) rotate(-90)" fill="#0FBCB9"/>
+    <g id="c4067ea13a0109e58cd0c2fc71e6b022" transform="translate(9 22.876) rotate(-90)">
+      <path id="Caminho_1" data-name="Caminho 1" d="M5.438,0A.823.823,0,0,0,4.8.272L.272,4.8a.876.876,0,0,0,0,1.269.876.876,0,0,0,1.269,0L6.073,1.541a.876.876,0,0,0,0-1.269A.823.823,0,0,0,5.438,0Z" transform="translate(4.532 9.97)" fill="#131313"/>
+      <path id="Caminho_2" data-name="Caminho 2" d="M.906,0A.823.823,0,0,0,.272.272a.876.876,0,0,0,0,1.269L4.8,6.073A.9.9,0,0,0,6.073,4.8L1.541.272A.823.823,0,0,0,.906,0Z" transform="translate(0 9.97)" fill="#131313"/>
+      <path id="Caminho_3" data-name="Caminho 3" d="M.906,0A.856.856,0,0,0,0,.906v14.5a.856.856,0,0,0,.906.906.856.856,0,0,0,.906-.906V.906A.856.856,0,0,0,.906,0Z" transform="translate(4.532)" fill="#131313"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,95 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+* {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    box-sizing: border-box;
+    resize: none;
+    outline: none;
+    list-style: none;
+    text-decoration: none;
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+    background-size: cover !important;
+    -o-object-fit: cover;
+    object-fit: cover;
+    font-family: "Poppins", sans-serif;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+section {
+    display: grid;
+    place-items: center;
+    height: -moz-fit-content;
+    height: fit-content;
+    padding: 5% 0;
+    position: relative;
+}
+
+body {
+    background: #1b1b1b;
+}
+
+.container {
+    width: 80%;
+    display: grid;
+    place-items: center;
+}
+#car{
+    width: 40vw;
+    display: grid;
+    place-items: center;
+}
+.swiper{
+    width: 100%;
+}
+img{
+    width: 100%;
+    height: auto;
+}
+.seta{
+    width: 40%;
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    align-items: center;
+    gap: 0 1rem;
+    img{
+        width: 45px;
+        cursor: pointer;
+    }
+    .swiper-button-prev1{
+        transform: rotateZ(180deg);
+    }
+}
+
+h1{
+    color: #fff;
+    font-size: 30px;
+}
+
+#teste-video {
+    background: #1f315b;
+    min-height: 100vh;
+    width: 100%;
+    padding: 5% 0;
+    .container {
+        width: 100%;
+        height: 100%;
+        gap: 2rem;
+        .vimeo-container {
+            width: 100%;
+            height: 100%;
+            background: aqua;
+            iframe {
+                width: 100%;
+                height: 100%;
+                position: relative;
+            }
+        }
+    }
+}
